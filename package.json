@@ -1,0 +1,10 @@
+{
+  "name": "autoru-frontend",
+  "dependencies": {
+    "npm-bug-repo1": "git@github.com:doochik/npm-bug-repo1.git#v0.1.2"
+  },
+  "engine": {
+    "node": ">=6"
+  },
+  "private": true
+}
